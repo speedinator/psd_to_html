@@ -1,0 +1,32 @@
+* {
+    margin: 0
+}
+
+nav {
+    color: red;
+}
+
+#hero-section {
+    color: blue;
+}
+
+#out_story-section {
+    color: green;
+}
+
+#watch-section {
+    color: fuchsia;
+}
+
+#team-section {
+    color: yellowgreen;
+}
+
+#contact_client-section {
+    color: lightsalmon;
+}
+
+footer {
+    color: blueviolet;
+}
+
