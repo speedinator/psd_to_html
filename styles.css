@@ -1,10 +1,45 @@
 * {
-    margin: 0
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
 }
 
-nav {
-    color: red;
+li, a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+
 }
+nav {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    display: inline;
+}
+
+
+.nav_links {
+    list-style: none;
+}
+
+.nav_links li {
+    display: inline-block;
+    padding:  0px 20px;
+
+}
+
+/*ul {
+    margin: 30px auto;
+    padding: 0 20px;
+  }
+*/
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 10%;
+    align-items: center;
+    
+  }
 
 #hero-section {
     color: blue;
